@@ -6,7 +6,7 @@ Junior Developer Resume
 ellecisneros21@gmail.com
 
 ## About me
-I'm passionate about technology because it has the power to transform the world and improve people's lives in countless ways. 
+I'm passionate about technology because it has the power to transform the world and improve people's lives in countless ways.
 
 ## Skills
 * Git/GitHub
