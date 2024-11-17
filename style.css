@@ -1,2 +1,86 @@
 body {
+    background-color: #000;
+    font-family: "Courier", monospace;
+}
+
+h1{
+    font-size: 48px;
+    color:#fff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h2{
+    font-size: 48px;
+    color: #5D3FD3;
+}
+
+p{
+    font-size: 24px;
+    color:#fff;
+}
+
+ul{
+    font-size: 24px;
+    color:#fff;
+}
+
+a{
+    font-size: 24px;
+    color:#fff;
+    text-decoration: none;
+
+}
+
+code{
+    font-size: 24px;
+    color:#fff;
+}
+
+section{
+    padding-bottom: 10px;
+}
+
+footer{
+    display:flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.logo{
+    width: 150px;
+}
+
+.profile{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.nav{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    font-weight: bold;
+    flex-wrap: wrap;
+
+}
+
+.wrapper{
+    margin: 50px 200px 50px 200px;
+    
+}
+
+.list{
+    padding-left: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.git{
+    display: flex;
+    align-items: center;
 }
